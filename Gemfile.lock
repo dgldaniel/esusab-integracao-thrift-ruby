@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    securerandom (0.2.0)
+    thrift (0.16.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  securerandom
+  thrift
+
+BUNDLED WITH
+   2.3.20
